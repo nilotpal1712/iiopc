@@ -1,0 +1,7 @@
+config.py
+ca.pem
+*.npy
+*.index
+*.txt
+__pycache__/
+.env
