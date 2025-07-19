@@ -1,0 +1,7 @@
+flask
+gunicorn
+sentence-transformers
+faiss-cpu
+numpy
+mysql-connector-python
+
